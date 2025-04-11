@@ -50,6 +50,14 @@
     </a>
 </div>
 
+## ✨ Changes Made to `v0.0.8`
+
+This forked repository contributed to the upstream release `v0.0.8` with the following changes:
+- Added a search function for owned pets
+- Added support for Simplified and Traditional Chinese
+
+Pull request [#7](https://github.com/SeakMengs/WindowPet/pull/7) was submitted and successfully merged into the upstream repository. These changes are now included in the official release of `v0.0.9`.
+
 ## ✨ Features
 
 ![image](https://github.com/SeakMengs/WindowPet/assets/54373229/42ecd3ea-5999-462e-8630-7904a1a3075f)
